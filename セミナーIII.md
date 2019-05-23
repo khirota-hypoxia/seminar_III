@@ -54,7 +54,7 @@ https://itunes.apple.com/jp/app/day-one-%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%
 
 https://dekiru.net/article/17092/
 
-SNSに費やした時間などが記録されている　　
+SNSに費やした時間などが記録されている　<br>　
 
 
 
