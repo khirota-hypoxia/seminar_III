@@ -30,7 +30,7 @@ iPhoneのアプリを用いて自分の行動を知る。
 
 https://www.apple.com/jp/ios/health/
 
-歩数とかの情報などが格納されている
+歩数とかの情報などが格納されている　　
 
 
 
@@ -38,7 +38,7 @@ SilentLog
 
 https://itunes.apple.com/jp/app/silentlog/id901679160?mt=8
 
-GPSでどこにいたかの情報が格納される
+GPSでどこにいたかの情報が格納される　　
 
 
 
@@ -46,7 +46,7 @@ Day One
 
 https://itunes.apple.com/jp/app/day-one-%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AB-%E3%83%A9%E3%82%A4%E3%83%95%E3%83%AD%E3%82%B0/id1044867788?mt=8&ign-mpt=uo%3D4
 
-簡単な日記帳
+簡単な日記帳　　
 
 
 
@@ -54,7 +54,7 @@ https://itunes.apple.com/jp/app/day-one-%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%
 
 https://dekiru.net/article/17092/
 
-SNSに費やした時間などが記録されている
+SNSに費やした時間などが記録されている　　
 
 
 
@@ -76,7 +76,7 @@ https://support.google.com/calendar/answer/2465776?co=GENIE.Platform%3DiOS&hl=ja
 
 ---
 
-宿題
+### 宿題
 
 ヘルスケアとスクリーンタイムを用いて一週間分の「歩数」「SNSの時間」を調べる。
 
