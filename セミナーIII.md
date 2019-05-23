@@ -56,7 +56,20 @@ https://dekiru.net/article/17092/
 
 SNSに費やした時間などが記録されている　<br>　
 
+睡眠管理
 
+ベッドタイム
+
+​	https://support.apple.com/ja-jp/HT208655
+
+<br>
+
+Pillow
+AutoSleep
+
+​	https://cyblog.jp/35191
+
+<br>
 
 #### カレンダーを使って予定の管理をする
 
